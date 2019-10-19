@@ -13,8 +13,8 @@ By Graciela Carrillo
 [![alt text][1.1]][1]
 [![alt text][6.1]][6]
 <!-- links to social media icons -->
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+[1.1]: http://i.imgur.com/tXSoThF.png (http://www.twitter.com/gracecarrilloc)
+[6.1]: http://i.imgur.com/0o48UoR.png (iil.gracielacarrillo@gmail.com)
 <!-- links to your social media accounts -->
 <!-- update these accordingly -->
 [1]: http://www.twitter.com/gracecarrilloc
