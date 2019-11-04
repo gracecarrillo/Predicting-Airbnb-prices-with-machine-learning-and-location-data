@@ -18,7 +18,7 @@ The aim of this project is to propose a data-driven solution, by using machine l
 
 For this project, a predictor based on space will is used to the model: the property's proximity to certain venues. This will allowed the model to put an implicit price on things such as living close to a bar or a supermarket.
 
-I published a post in Medium: **to be updated**, a more detailed report can be found **here** and the notebook [here](https://nbviewer.jupyter.org/github/gracecarrillo/Coursera_Capstone/blob/master/Exploring_Edinburgh_Graciela_Carrillo.ipynb). 
+I published a post in Medium: **to be updated**, a more detailed report can be found [here](https://gracecarrillo.github.io/Coursera_Capstone/#some_useful_references) and the notebook [here](https://nbviewer.jupyter.org/github/gracecarrillo/Coursera_Capstone/blob/master/Exploring_Edinburgh_Graciela_Carrillo.ipynb). 
 
 ### Findings and conclusion:
 
