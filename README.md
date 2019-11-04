@@ -6,22 +6,6 @@ Applied Data Science Capstone
 
 *Keywords: Airbnb, Edinburgh, city, data, data science, design, geopandas, geospatial, gis, land use, livability, maps, matplotlib, modeling, neighborhood, networks, new urbanism, numpy, pandas,pandana, osm, planning, python, smart cities, smart growth, urban, urban design, urban planning, visualization*
 
-By Graciela Carrillo
-
-<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
-<!-- display the social media buttons in your README -->
-[![alt text][1.1]][1]
-[![alt text][6.1]][6]
-<!-- links to social media icons -->
-[1.1]: http://i.imgur.com/tXSoThF.png (http://www.twitter.com/gracecarrilloc)
-[6.1]: http://i.imgur.com/0o48UoR.png (iil.gracielacarrillo@gmail.com)
-<!-- links to your social media accounts -->
-<!-- update these accordingly -->
-[1]: http://www.twitter.com/gracecarrilloc
-[2]: iil.gracielacarrillo@gmail.com
-[6]: https://github.com/gracecarrillo
-<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
-
 ### Project background and aim
 
  Airbnb is a internet marketplace for short-term home and apartment rentals. It allows you to, for example, rent out your home for a week while you’re away, or rent out your empty bedroom. One challenge that Airbnb hosts face is determining the optimal nightly rent price. In many areas, renters are presented with a good selection of listings and can filter by criteria like price, number of bedrooms, room type, and more. Since Airbnb is a market, the amount a host can charge is ultimately tied to market prices.
@@ -34,7 +18,7 @@ The aim of this project is to propose a data-driven solution, by using machine l
 
 For this project, a predictor based on space will is used to the model: the property's proximity to certain venues. This will allowed the model to put an implicit price on things such as living close to a bar or a supermarket.
 
-I published a post in Medium: **to be updated** and a more detailed report **hto be updated** can be found **here**.
+I published a post in Medium: **to be updated**, a more detailed report can be found **here** and the notebook [here](https://nbviewer.jupyter.org/github/gracecarrillo/Coursera_Capstone/blob/master/Exploring_Edinburgh_Graciela_Carrillo.ipynb). 
 
 ### Findings and conclusion:
 
