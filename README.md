@@ -1,24 +1,21 @@
-# Coursera_Capstone
+# Coursera Capstone
 Applied Data Science Capstone
+ 
+# Predicting Airbnb prices with machine learning and location data 
+## A case study using data from the City of Edinburgh, Scotland
 
-# Exploration of Edinburgh's short rental market 
-## Airbnb price prediction with Machine Learning.
+*Keywords: Airbnb, Edinburgh, city, data science, pandas, geopandas, geospatial, foursquare, maps, matplotlib, modeling, neighbourhood, networks, numpy, foursquare API, planning, python, urban planning, data visualization*
 
-*Keywords: Airbnb, Edinburgh, city, data, data science, design, geopandas, geospatial, gis, land use, livability, maps, matplotlib, modeling, neighborhood, networks, new urbanism, numpy, pandas,pandana, osm, planning, python, smart cities, smart growth, urban, urban design, urban planning, visualization*
+
+<p align="center">
+  <img width="460" height="300" src="https://github.com/gracecarrillo/Coursera_Capstone/blob/gh-pages/Profesional%20Certificate%20IBM%20Data%20Science.png?raw=true">
+</p>
 
 ### Project background and aim
 
- Airbnb is a internet marketplace for short-term home and apartment rentals. It allows you to, for example, rent out your home for a week while you’re away, or rent out your empty bedroom. One challenge that Airbnb hosts face is determining the optimal nightly rent price. In many areas, renters are presented with a good selection of listings and can filter by criteria like price, number of bedrooms, room type, and more. Since Airbnb is a market, the amount a host can charge is ultimately tied to market prices.
+ As part of the [IBM Data Science Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/QWDCRB9GLLYL), we get to have a go at our very own Data Science Capstone, where we get a taste of what is like to solve problems and answer questions like a data scientist. For my assignment, I decided to do yet another project that looks into the relationship between Airbnb prices and its determinants. Yes, there are several very cool ones like Laura Lewis’s here. I would not have been able to do mine without reading and understanding hers (and her code), so kudos! However, being that I’m all about transportation research, I added a little touch of geospatial analysis by looking into locational features as possible predictors. 
 
-Although Airbnb provides hosts with general guidance, there are no easy to access methods to determine the best price to rent out a space. There is third-party software available, but for a hefty price (see an example on available software, click [here](https://beyondpricing.com/)).
-
-One method could be to find a few listings that are similar to the place that will be up for rent, average the listed prices and set our price to this calculated average price. However, with the market being so dynamic, we would probably be looking to update the price regularly and this method can become tedious. Also, this is not be very accurate, as we are not taking into account other important factors that may give us a comparative advantage over other listings around us. This could be property characteristics such as number of rooms, bathrooms and extra services on offer. 
-
-The aim of this project is to propose a data-driven solution, by using machine learning to predict rental price.
-
-For this project, a predictor based on space will is used to the model: the property's proximity to certain venues. This will allowed the model to put an implicit price on things such as living close to a bar or a supermarket.
-
-I published a post in Medium: **to be updated**, a more detailed report can be found [here](https://gracecarrillo.github.io/Coursera_Capstone/#some_useful_references) and the notebook [here](https://nbviewer.jupyter.org/github/gracecarrillo/Coursera_Capstone/blob/master/Exploring_Edinburgh_Graciela_Carrillo.ipynb). 
+I published a [post in Towards Data Science](https://towardsdatascience.com/predicting-airbnb-prices-with-machine-learning-and-location-data-5c1e033d0a5a), a more detailed report can be found [here](https://gracecarrillo.github.io/Coursera_Capstone/#some_useful_references) and the notebook [here](https://nbviewer.jupyter.org/github/gracecarrillo/Coursera_Capstone/blob/master/Exploring_Edinburgh_Graciela_Carrillo.ipynb). 
 
 ### Findings and conclusion:
 
