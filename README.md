@@ -25,7 +25,7 @@ All necesary libraries are indicated at the beggining of the [notebook](https://
 
 ## Project Motivation<a name="motivation"></a>
 
- As part of the [IBM Data Science Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/QWDCRB9GLLYL), we get to have a go at our very own Data Science Capstone, where we get a taste of what is like to solve problems and answer questions like a data scientist. For my assignment, I decided to do yet another project that looks into the relationship between Airbnb prices and its determinants. Yes, there are several very cool ones like Laura Lewis’s here. I would not have been able to do mine without reading and understanding hers (and her code), so kudos! However, being that I’m all about transportation research, I added a little touch of geospatial analysis by looking into locational features as possible predictors. 
+ As part of the [IBM Data Science Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/QWDCRB9GLLYL), we get to have a go at our very own Data Science Capstone, where we get a taste of what is like to solve problems and answer questions like a data scientist. For my assignment, I decided to do yet another project that looks into the relationship between Airbnb prices and its determinants. However, being that I’m all about transportation research, I added a little touch of geospatial analysis by looking into locational features as possible predictors. 
 
 ## File Descriptions <a name="files"></a>
 
