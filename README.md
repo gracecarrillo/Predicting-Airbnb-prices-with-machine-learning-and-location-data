@@ -1,11 +1,11 @@
-# Coursera Capstone
+#  IBM Data Science Professional Certificate - by Coursera
 Applied Data Science Capstone
  
 # Predicting Airbnb prices with machine learning and location data 
 ## A case study using data from the City of Edinburgh, Scotland
 
 *Keywords: Airbnb, Edinburgh, city, data science, pandas, geopandas, geospatial, foursquare, maps, matplotlib, modeling, neighbourhood, networks, numpy, foursquare API, planning, python, urban planning, data visualization*
-
+REAM
 
 <p align="center">
   <img width="460" height="300" src="https://github.com/gracecarrillo/Coursera_Capstone/blob/gh-pages/Profesional%20Certificate%20IBM%20Data%20Science.png?raw=true">
