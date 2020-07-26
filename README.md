@@ -1,6 +1,3 @@
-#  IBM Data Science Professional Certificate - by Coursera
-Applied Data Science Capstone
- 
 # Predicting Airbnb prices with machine learning and location data 
 ## A case study using data from the City of Edinburgh, Scotland
 
